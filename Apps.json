@@ -1,12 +1,161 @@
 {
-	"name": "Cao Thế Dũng",
+	"name": "CREATE BY THƯỢNG QUANG",
 	"apps": [
 
+{"name": "Cercube",
+"version": "16.46.5",
+"downloadURL": "https://dl.dropboxusercontent.com/s/xi8o403ilz0km0k/MyTube_16.46.5.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Cercube.png"},
+
+{"name": "Cercube Max",
+"version": "16.46.5",
+"downloadURL": "https://dl.dropboxusercontent.com/s/6t8261hk994rkqq/MyTube_Max_16.46.5.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Cercube.png"},
+
+{"name": "Spotify++",
+"version": "8.5.77",
+"downloadURL": "https://dl.dropboxusercontent.com/s/49p7x6tzups89il/Spotify_8.5.77_1641618108.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Spotify.png"},
+
+{"name": "unc0ver",
+"version": "8.0.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/w1xx87nfb7xyzv0/unc0ver_8.0.2_1641617997.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Uncover.png"},
+
+{"name": "Delta",
+"version": "1.1.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/nvcpr98ts8t5sqi/Delta_1.1.2_1641619703.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Delta.png"},
+
+{"name": "RAR Power",
+"version": "3.2.4",
+"downloadURL": "https://dl.dropboxusercontent.com/s/5e7dzddreofg42s/RAW_Power_3.2.4_1641649181.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/RARPower.png"},
+
+{"name": "App Install",
+"version": "1.10.7",
+"downloadURL": "https://dl.dropboxusercontent.com/s/a4u326d2bc9v152/AppInst.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Appinstall.png"},
+
+{"name": "Camera 360 ++",
+"version": "9.9.33",
+"downloadURL": "https://dl.dropboxusercontent.com/s/6vt297u6r9xcb3r/Camera360_Vip_9.9.33_1641723139.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Camera360.png"},
+
+{"name": "Happy Chick",
+"version": "1.5.8.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/o48h87qkypro0x6/Happy_Chik_1.5.8.2_1641723110.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/HappyChick.png"},
+
+{"name": "Peachy Pro",
+"version": "1.26.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/6enfedsv8202sef/Peachy_1.26.0_1641723025.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Peachy.png"},
+
+{"name": "TikTok Trung Quốc",
+"version": "19.0.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/l9cuz9aq7jun66q/Tiktok_TQ_19.0.0_1641722995.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Tiktok.png"},
+
+{"name": "Viva Video ++",
+"version": "8.7.3",
+"downloadURL": "https://dl.dropboxusercontent.com/s/uugclrtw5ekkg5h/VivaVideo_Vip_8.7.3_LeTi.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/VivaVideo.png"},
+
+{"name": "Nhạc Của Tao Vip",
+"version": "6.2.6",
+"downloadURL": "https://dl.dropboxusercontent.com/s/b5e5vwvtzywm2df/Nhac_Cua_Tao_6.2.6_1641722699.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Nhaccuatui.png"},
+
+{"name": "Player Xtreme Pro",
+"version": "8.7",
+"downloadURL": "https://dl.dropboxusercontent.com/s/jab487yjog60j6z/PlayerXtreme_8.7.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/PlayerEtreme.png"},
+
+{"name": "VLC Pro",
+"version": "6.21.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/09e0qatlq1ffmia/VLC_Pro_6.21.2.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/VLC.png"},
+
+{"name": "Chia Sẽ Nhạc",
+"version": "1.5",
+"downloadURL": "https://dl.dropboxusercontent.com/s/9joehia9bc0uw91/Chiasenhac.ipa?dl=0 dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Chiasenhac.png"},
+
+{"name": "AppCake",
+"version": "7.2.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/nim3f2jqgr1lqwk/appcake.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Appcake.png"},
+
+{"name": "Document Pro",
+"version": "15.1",
+"downloadURL": "https://dl.dropboxusercontent.com/s/1nxd8ustz7xlhxl/Documents_Pro_15.1.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Document.png"},
+
+{"name": "Zalo 2",
+"version": "210902",
+"downloadURL": "https://dl.dropboxusercontent.com/s/0fp04251j0lbr4b/Zalo_2_210902.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zalo.png"},
+
+{"name": "Facebook 2",
+"version": "345.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/i2mx0i6stwxr4mo/Facebook_2_345.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Facebook.png"},
+
+{"name": "Messenger 2",
+"version": "342.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/zh5jr5shb25jfpu/Messenger_2_342.2.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Messenger.png"},
+
+{"name": "Quantumult X",
+"version": "1.0.26",
+"downloadURL": "https://dl.dropboxusercontent.com/s/s6exz9uti7unqce/Quantumult_X_1.0.26.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/QuantumultX.png"},
+
+{"name": "Adguard Pro",
+"version": "4.2.2",
+"downloadURL": "https://dl.dropboxusercontent.com/s/r3lmj0t78yjqydf/AdGuard_Pro_4.2.2.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Adguard.png"},
+
+{"name": "Shadow Rocket",
+"version": "2.1.96",
+"downloadURL": "https://dl.dropboxusercontent.com/s/kkgseqdrsflk86u/Shadowrocket_2.1.96.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Shadowrocket.png"},
+
+{"name": "Recorder Pro",
+"version": "5.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/p0uxsfbri7yutj8/Recorder_Pro_5.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Recode.png"},
+
 {"name": "PicsArt Pro",
-"version": "17.9.2",
+"version": "23.02",
 "downloadURL": "https://doc-14-b8-docs.googleusercontent.com/docs/securesc/2lb5tv97fre3ft4bn1jcg00hpscgk1cm/eeme0q75uq0ur5pjm6cdiau3580rgkg1/1641879075000/14780066407541181358/04716913442850499914/1WEEA9AV4bEemuV3pgLXuW7XQ0NTl2IJr?e=download&authuser=0&nonce=mgpdgg6k1iis4&user=04716913442850499914&hash=2ug85p2fibdfu3t3501bbgs3cee06hmf",
 "iconURL": "https://drive.google.com/file/d/1S7QMaXo_pfxb_iQE7tjzfiEiF8L6CA6_/view?usp=sharing"},
 
+{"name": "Zing Play",
+"version": "1.0",
+"downloadURL": "https://dl.dropboxusercontent.com/s/4j3wesx8sgb9yrg/ZingPlay_1.0.ipa?dl=0",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Zingplay.png"},
+
+{"name": "TEST",
+"version": "4.2.2",
+"downloadURL": "https://dl.dropboxusercontent.com/aaaaaaaaa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"},
+
+{"name": "TEST",
+"version": "4.2.2",
+"downloadURL": "https://dl.dropboxusercontent.com/aaaaaaaaa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"},
+
+{"name": "TEST",
+"version": "4.2.2",
+"downloadURL": "https://dl.dropboxusercontent.com/aaaaaaaaa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"},
+
+{"name": "TEST",
+"version": "4.2.2",
+"downloadURL": "https://dl.dropboxusercontent.com/aaaaaaaaa",
+"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Test.png"}
 
 
 
@@ -25,3 +174,22 @@
 
 
 ]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
